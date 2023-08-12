@@ -450,6 +450,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 17a98f15-0727-4a7d-80ce-763d52b0668c)
   )
+  (text "4V5-24V0" (at 76.2 77.47 0)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid 90eb5302-bdf1-42d6-9696-29033351abe9)
+  )
 
   (hierarchical_label "V_in" (shape input) (at 73.66 80.01 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
