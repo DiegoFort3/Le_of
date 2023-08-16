@@ -684,7 +684,7 @@
     (property "Value" "ST_Link_Connector" (at 154.94 105.41 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 148.59 113.03 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical" (at 148.59 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 154.94 123.19 0)
