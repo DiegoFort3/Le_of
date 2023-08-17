@@ -1,0 +1,3 @@
+[submodule "Library/PCB_Library"]
+	path = Library/PCB_Library
+	url = https://github.com/DiegoFort3/KiCad_Libraries.git
