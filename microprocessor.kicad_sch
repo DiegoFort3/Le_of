@@ -1091,7 +1091,7 @@
     (property "Value" "STM32G0B1RET6N" (at 186.69 55.2703 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "QFP50P1200X1200X160-64N" (at 177.8 48.26 0)
+    (property "Footprint" "Package_QFP:LQFP-64_10x10mm_P0.5mm" (at 177.8 48.26 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32g0b1cc.pdf" (at 177.8 50.8 0)
