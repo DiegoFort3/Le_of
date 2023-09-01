@@ -1229,7 +1229,7 @@
     (property "Value" "STM32G0B1REI6N" (at 156.21 45.72 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "Package_QFP:LQFP-32_7x7mm_P0.8mm" (at 156.21 45.974 0)
+    (property "Footprint" "Package_QFP:LQFP-64-1EP_10x10mm_P0.5mm_EP5x5mm" (at 156.21 45.974 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 113.03 52.07 0)
