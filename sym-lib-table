@@ -2,6 +2,4 @@
   (version 7)
   (lib (name "Library_Loader")(type "Legacy")(uri "${KIPRJMOD}/Libray/Library Loader/SamacSys_Parts.lib")(options "")(descr ""))
   (lib (name "Sama")(type "KiCad")(uri "${KIPRJMOD}/Libray/SamacSys_PCB_Libary/KiCad/SamacSys_Parts.kicad_sym")(options "")(descr ""))
-  (lib (name "Sama2")(type "Legacy")(uri "D:/KiCad/foot_print_libraries/SamacSys/SamacSys_PCB_Libary/KiCad/SamacSys_Parts.lib")(options "")(descr ""))
-  (lib (name "Sama3")(type "KiCad")(uri "D:/KiCad/foot_print_libraries/SamacSys/SamacSys_PCB_Libary/KiCad/SamacSys_Parts.kicad_sym")(options "")(descr ""))
 )
